@@ -1,0 +1,19 @@
+{
+	"Componente Funcional": {
+		"scope": "javascript",
+		"prefix": "compFunc",
+		"body": [
+			"import React from 'react'",
+			"import { SafeAreaView, Text } from 'react-native'",
+			"",
+			"export default function(props) {",
+			"	return (",
+			"		<>",
+			"			",
+			"		</>",
+			"	)",
+			"}"
+		],
+		"description": "Log output to console"
+	}
+}
